@@ -28,3 +28,7 @@ Puedes acceder al código fuente en:
    git clone https://github.com/erigsml/amigo-secreto-ONE.git
    ```
 2. Abre el archivo `index.html` en tu navegador.
+
+## 🎉 Conclusión  
+Este es mi primer desafío y ha sido una gran experiencia de aprendizaje. Tengo muchas ganas de seguir mejorando y explorando más sobre desarrollo web. 
+
