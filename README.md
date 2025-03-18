@@ -9,7 +9,7 @@ Aplicación para ingresar nombres y sortear aleatoriamente un "amigo secreto", c
 
 ### 📽️ Gif de demostración  
 
-   ![Demo del Proyecto](/assets/gifAmigoSecreto.gif)
+   ![Demo del Proyecto](/assets/gitAmigoSecreto.gif)
 
 
 ## 🛠️ Tecnologías y técnicas utilizadas  
