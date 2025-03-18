@@ -20,11 +20,11 @@ Aplicación para ingresar nombres y sortear aleatoriamente un "amigo secreto", c
 
 ## 🚀 Acceso al Proyecto  
 Puedes acceder al código fuente en:  
-🔗 [GitHub - NombreDelRepositorio](https://github.com/tu-usuario/nombre-del-repositorio)  
+🔗 [GitHub - amigo-secreto-ONE](https://github.com/erigsml/amigo-secreto-ONE.git)  
 
 ## 🏃‍♂️ Abrir y ejecutar el proyecto  
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/erigsml/amigo-secreto-ONE.git
    ```
 2. Abre el archivo `index.html` en tu navegador.
